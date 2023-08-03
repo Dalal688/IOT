@@ -5,6 +5,16 @@ In this task by using [wokwi](https://wokwi.com/) I drew an electronic circuit \
 <img src="https://github.com/Dalal688/IOT/assets/137711691/216411a2-5cb4-4471-8234-c202b98f626d" width="150" >
 
 #### As soon as the simulation is started, the first command printed will be "Connecting to WiFi", check the status and print the local IP. Then, fetching the url to check the if condition.
+
+## Forward:
+
 ##### -The LED lights up if the payload is "forward", otherwise it does not.
 
 <img src="https://github.com/Dalal688/IOT/assets/137711691/637dff81-120f-4660-ac29-5e2b55299866" width="250" >
+
+## Stop:
+
+##### -The LED lights up if the payload is "stop", otherwise it does not.
+
+<img src="https://github.com/Dalal688/IOT/assets/137711691/b7e1932d-bdb8-47eb-a042-2b8850106823" width="250" >
+
