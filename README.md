@@ -7,3 +7,4 @@ In this task by using [wokwi](https://wokwi.com/) I drew an electronic circuit \
 #### As soon as the simulation is started, the first command printed will be "Connecting to WiFi", check the status and print the local IP. Then, fetching the url to check the if condition.
 ##### -The LED lights up if the payload is "forward", otherwise it does not.
 
+<img src="https://github.com/Dalal688/IOT/assets/137711691/637dff81-120f-4660-ac29-5e2b55299866" width="250" >
