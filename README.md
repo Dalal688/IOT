@@ -8,13 +8,13 @@ In this task by using [wokwi](https://wokwi.com/) I drew an electronic circuit \
 
 ## Forward:
 
-##### -The LED lights up if the payload is "forward", otherwise it does not.
+ - The LED lights up if the payload is "forward", otherwise it does not.
 
 <img src="https://github.com/Dalal688/IOT/assets/137711691/637dff81-120f-4660-ac29-5e2b55299866" width="250" >
 
 ## Stop:
 
-##### -The LED lights up if the payload is "stop", otherwise it does not.
+- The LED lights up if the payload is "stop", otherwise it does not.
 
 <img src="https://github.com/Dalal688/IOT/assets/137711691/b7e1932d-bdb8-47eb-a042-2b8850106823" width="250" >
 
